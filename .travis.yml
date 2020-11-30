@@ -1,3 +1,6 @@
+arch:
+   - amd64
+   - ppc64le
 script: bundle exec bench test/automated/
 language: ruby
 
